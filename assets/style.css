@@ -1,0 +1,13 @@
+.navbar-default {
+    background-color: yellow;
+    border-color: yellow;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #ffb9b6;
+    border-color: #fddedd;
+}
+element.style {
+    background-color: lightgoldenrodyellow;
+    height: 400px;
+}
